@@ -256,7 +256,7 @@
   <!-- ============================================================ -->
   <!-- BIBLIOGRAPHY                                                  -->
   <!-- ============================================================ -->
-  <bibliography hanging-indent="false" entry-spacing="1" line-spacing="1">
+  <bibliography hanging-indent="true" entry-spacing="1" line-spacing="1">
     <sort>
       <key macro="author"/>
       <key macro="issued" sort="ascending"/>
